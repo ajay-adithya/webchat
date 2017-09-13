@@ -1,4 +1,7 @@
 # webchat
+
+A simple real time chat application using node.js and socket.io library deployed on heroku. Gravatar library is used to provide default avatars for users based on the email address. A private chat room which allows two people to communicat in real time. 
+
 Deployment instructions in Heroku
  1)Donwload heroku CLI
  2)push all the local code to github, use .gitignore file to ignore node_modules directory
